@@ -1,8 +1,6 @@
 /venv
-bonus
-files_bonus
+/bonus
+/files_bonus
 .idea
-journal
-cli.py
-match_case_main.py
-test.py
+/journal
+
