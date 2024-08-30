@@ -3,3 +3,6 @@ bonus
 files_bonus
 .idea
 journal
+cli.py
+match_case_main.py
+test.py
