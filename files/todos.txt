@@ -1,8 +1,2 @@
-Call to doctor
-cook
-new todo
-shower
-add food to fridge
-complete homework
-exit school
-shower cat
+Make dinner
+
